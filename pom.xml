@@ -8,7 +8,7 @@
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>ylx-weixin-sell</name>
+    <name>sell</name>
     <description>ylx-weixin-sell</description>
 
     <parent>
