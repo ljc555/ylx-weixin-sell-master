@@ -1,0 +1,813 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bb58ea63-9c1a-43e7-b6b0-db28425677a3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cn_springboot_best_pay_sdk_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_8_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_8_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_binarywang_weixin_java_common_2_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_binarywang_weixin_java_mp_2_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_20_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okhttp3_okhttp_3_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okio_okio_1_13_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_retrofit2_converter_simplexml_2_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_retrofit2_retrofit_2_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_thoughtworks_xstream_xstream_1_4_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_transaction_javax_transaction_api_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_ws_rs_javax_ws_rs_api_2_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__joda_time_joda_time_2_9_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_41.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_5_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_jdbc_8_5_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_juli_8_5_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_2_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_26_incubating.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_external_aopalliance_repackaged_2_5_0_b05.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_external_javax_inject_2_5_0_b05.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_hk2_api_2_5_0_b05.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_hk2_locator_2_5_0_b05.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_hk2_utils_2_5_0_b05.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_osgi_resource_locator_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_bundles_repackaged_jersey_guava_2_23_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_connectors_jersey_apache_connector_2_23_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_core_jersey_client_2_23_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_core_jersey_common_2_23_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_0_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_core_5_0_12_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_entitymanager_5_0_12_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_validator_5_3_5_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_javax_persistence_hibernate_jpa_2_1_api_1_0_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_21_0_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_jandex_2_0_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_1_10_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_16_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_simpleframework_simple_xml_2_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_log4j_over_slf4j_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_1_5_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_1_5_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_1_5_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_1_5_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jpa_1_5_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_redis_1_5_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_freemarker_1_5_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_1_5_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_1_5_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_1_5_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_1_5_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_1_5_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_websocket_1_5_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_1_5_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_1_5_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_1_13_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_1_11_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_keyvalue_1_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_redis_1_8_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_3_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aspects_4_3_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_3_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_3_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_4_3_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_3_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_3_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_3_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_messaging_4_3_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_orm_4_3_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_oxm_4_3_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_4_3_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_3_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_3_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_websocket_4_3_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__redis_clients_jedis_2_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__stax_stax_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xmlpull_xmlpull_1_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xpp3_xpp3_1_1_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xpp3_xpp3_min_1_1_4c.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bak/sell_server/doc/API.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bak/sell_server/doc/SQL.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bak/sell_server/doc/VM.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bak/sell_server/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bak/sell_server/src/main/java/com/imooc/SellApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bak/sell_server/src/main/java/com/imooc/VO/ProductInfoVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bak/sell_server/src/main/java/com/imooc/VO/ProductVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bak/sell_server/src/main/java/com/imooc/VO/ResultVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bak/sell_server/src/main/java/com/imooc/aspect/SellerAuthorizeAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bak/sell_server/src/main/java/com/imooc/config/ProjectUrlConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bak/sell_server/src/main/java/com/imooc/config/WebSocketConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bak/sell_server/src/main/java/com/imooc/config/WechatAccountConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bak/sell_server/src/main/java/com/imooc/config/WechatMpConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bak/sell_server/src/main/java/com/imooc/config/WechatOpenConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bak/sell_server/src/main/java/com/imooc/config/WechatPayConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bak/sell_server/src/main/java/com/imooc/constant/CookieConstant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bak/sell_server/src/main/java/com/imooc/constant/RedisConstant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bak/sell_server/src/main/java/com/imooc/controller/BuyerOrderController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bak/sell_server/src/main/java/com/imooc/controller/BuyerProductController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bak/sell_server/src/main/java/com/imooc/controller/PayController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bak/sell_server/src/main/java/com/imooc/controller/SellerCategoryController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bak/sell_server/src/main/java/com/imooc/controller/SellerOrderController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bak/sell_server/src/main/java/com/imooc/controller/SellerProductController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bak/sell_server/src/main/java/com/imooc/controller/SellerUserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bak/sell_server/src/main/java/com/imooc/controller/WechatController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bak/sell_server/src/main/java/com/imooc/controller/WeixinController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bak/sell_server/src/main/java/com/imooc/converter/OrderForm2OrderDTOConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bak/sell_server/src/main/java/com/imooc/converter/OrderMaster2OrderDTOConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bak/sell_server/src/main/java/com/imooc/dataobject/OrderDetail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bak/sell_server/src/main/java/com/imooc/dataobject/OrderMaster.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bak/sell_server/src/main/java/com/imooc/dataobject/ProductCategory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bak/sell_server/src/main/java/com/imooc/dataobject/ProductInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bak/sell_server/src/main/java/com/imooc/dataobject/SellerInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bak/sell_server/src/main/java/com/imooc/dto/CartDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bak/sell_server/src/main/java/com/imooc/dto/OrderDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bak/sell_server/src/main/java/com/imooc/enums/CodeEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bak/sell_server/src/main/java/com/imooc/enums/OrderStatusEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bak/sell_server/src/main/java/com/imooc/enums/PayStatusEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bak/sell_server/src/main/java/com/imooc/enums/ProductStatusEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bak/sell_server/src/main/java/com/imooc/enums/ResultEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bak/sell_server/src/main/java/com/imooc/exception/SellException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bak/sell_server/src/main/java/com/imooc/exception/SellerAuthorizeException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bak/sell_server/src/main/java/com/imooc/form/CategoryForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bak/sell_server/src/main/java/com/imooc/form/OrderForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bak/sell_server/src/main/java/com/imooc/form/ProductForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bak/sell_server/src/main/java/com/imooc/handler/SellExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bak/sell_server/src/main/java/com/imooc/repository/OrderDetailRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bak/sell_server/src/main/java/com/imooc/repository/OrderMasterRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bak/sell_server/src/main/java/com/imooc/repository/ProductCategoryRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bak/sell_server/src/main/java/com/imooc/repository/ProductInfoRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bak/sell_server/src/main/java/com/imooc/repository/SellerInfoRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bak/sell_server/src/main/java/com/imooc/service/BuyerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bak/sell_server/src/main/java/com/imooc/service/CategoryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bak/sell_server/src/main/java/com/imooc/service/OrderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bak/sell_server/src/main/java/com/imooc/service/PayService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bak/sell_server/src/main/java/com/imooc/service/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bak/sell_server/src/main/java/com/imooc/service/PushMessageService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bak/sell_server/src/main/java/com/imooc/service/SellerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bak/sell_server/src/main/java/com/imooc/service/WebSocket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bak/sell_server/src/main/java/com/imooc/service/impl/BuyerServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bak/sell_server/src/main/java/com/imooc/service/impl/CategoryServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bak/sell_server/src/main/java/com/imooc/service/impl/OrderServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bak/sell_server/src/main/java/com/imooc/service/impl/PayServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bak/sell_server/src/main/java/com/imooc/service/impl/ProductServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bak/sell_server/src/main/java/com/imooc/service/impl/PushMessageServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bak/sell_server/src/main/java/com/imooc/service/impl/SellerServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bak/sell_server/src/main/java/com/imooc/utils/CookieUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bak/sell_server/src/main/java/com/imooc/utils/EnumUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bak/sell_server/src/main/java/com/imooc/utils/JsonUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bak/sell_server/src/main/java/com/imooc/utils/KeyUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bak/sell_server/src/main/java/com/imooc/utils/MathUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bak/sell_server/src/main/java/com/imooc/utils/ResultVOUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bak/sell_server/src/main/java/com/imooc/utils/serializer/Date2LongSerializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bak/sell_server/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bak/sell_server/src/main/resources/logback-spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bak/sell_server/src/main/resources/static/api/ratings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bak/sell_server/src/main/resources/static/api/seller.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bak/sell_server/src/main/resources/static/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bak/sell_server/src/main/resources/static/mp3/song.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bak/sell_server/src/main/resources/static/pay.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bak/sell_server/src/main/resources/templates/category/index.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bak/sell_server/src/main/resources/templates/category/list.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bak/sell_server/src/main/resources/templates/common/error.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bak/sell_server/src/main/resources/templates/common/header.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bak/sell_server/src/main/resources/templates/common/nav.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bak/sell_server/src/main/resources/templates/common/success.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bak/sell_server/src/main/resources/templates/order/detail.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bak/sell_server/src/main/resources/templates/order/list.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bak/sell_server/src/main/resources/templates/pay/create.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bak/sell_server/src/main/resources/templates/pay/success.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bak/sell_server/src/main/resources/templates/product/index.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bak/sell_server/src/main/resources/templates/product/list.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bak/sell_server/src/test/java/com/imooc/LoggerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bak/sell_server/src/test/java/com/imooc/LoggerTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bak/sell_server/src/test/java/com/imooc/SellApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bak/sell_server/src/test/java/com/imooc/repository/OrderDetailRepositoryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bak/sell_server/src/test/java/com/imooc/repository/OrderMasterRepositoryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bak/sell_server/src/test/java/com/imooc/repository/ProductCategoryRepositoryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bak/sell_server/src/test/java/com/imooc/repository/ProductInfoRepositoryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bak/sell_server/src/test/java/com/imooc/repository/SellerInfoRepositoryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bak/sell_server/src/test/java/com/imooc/service/impl/CategoryServiceImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bak/sell_server/src/test/java/com/imooc/service/impl/OrderServiceImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bak/sell_server/src/test/java/com/imooc/service/impl/PayServiceImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bak/sell_server/src/test/java/com/imooc/service/impl/ProductServiceImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bak/sell_server/src/test/java/com/imooc/service/impl/PushMessageServiceImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bak/sell_server/src/test/java/com/imooc/service/impl/SellerServiceImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sell_server/sell_server.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sell_server/src/main/java/com/imooc/exception/ResponseBankException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/bak/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/bak/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_front/.babelrc" beforeDir="false" afterPath="$PROJECT_DIR$/bak/sell_front/.babelrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_front/.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/bak/sell_front/.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_front/.eslintignore" beforeDir="false" afterPath="$PROJECT_DIR$/bak/sell_front/.eslintignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_front/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/bak/sell_front/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_front/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/bak/sell_front/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_front/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/bak/sell_front/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_front/build/build.js" beforeDir="false" afterPath="$PROJECT_DIR$/bak/sell_front/build/build.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_front/build/check-versions.js" beforeDir="false" afterPath="$PROJECT_DIR$/bak/sell_front/build/check-versions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_front/build/dev-client.js" beforeDir="false" afterPath="$PROJECT_DIR$/bak/sell_front/build/dev-client.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_front/build/dev-server.js" beforeDir="false" afterPath="$PROJECT_DIR$/bak/sell_front/build/dev-server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_front/build/utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/bak/sell_front/build/utils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_front/build/webpack.base.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/bak/sell_front/build/webpack.base.conf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_front/build/webpack.dev.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/bak/sell_front/build/webpack.dev.conf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_front/build/webpack.prod.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/bak/sell_front/build/webpack.prod.conf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_front/config/dev.env.js" beforeDir="false" afterPath="$PROJECT_DIR$/bak/sell_front/config/dev.env.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_front/config/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/bak/sell_front/config/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_front/config/prod.env.js" beforeDir="false" afterPath="$PROJECT_DIR$/bak/sell_front/config/prod.env.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_front/config/test.env.js" beforeDir="false" afterPath="$PROJECT_DIR$/bak/sell_front/config/test.env.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_front/data.json" beforeDir="false" afterPath="$PROJECT_DIR$/bak/sell_front/data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_front/dist/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_front/dist/static/css/app.fc95ecb15d823cfb3172a7b93aaa741d.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_front/dist/static/css/reset.css" beforeDir="false" afterPath="$PROJECT_DIR$/bak/sell_front/static/css/reset.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_front/dist/static/js/app.358ba4041b1fffa354c5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_front/dist/static/js/manifest.fc84f01ca96262032787.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_front/dist/static/js/vendor.e8bcf9a796b8d5dbca42.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_front/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/bak/sell_front/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_front/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/bak/sell_front/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_front/prod.server.js" beforeDir="false" afterPath="$PROJECT_DIR$/bak/sell_front/prod.server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_front/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/bak/sell_front/src/APP.VUE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_front/src/common/fonts/sell-icon.eot" beforeDir="false" afterPath="$PROJECT_DIR$/bak/sell_front/src/common/fonts/sell-icon.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_front/src/common/fonts/sell-icon.svg" beforeDir="false" afterPath="$PROJECT_DIR$/bak/sell_front/src/common/fonts/sell-icon.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_front/src/common/fonts/sell-icon.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/bak/sell_front/src/common/fonts/sell-icon.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_front/src/common/fonts/sell-icon.woff" beforeDir="false" afterPath="$PROJECT_DIR$/bak/sell_front/src/common/fonts/sell-icon.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_front/src/common/js/date.js" beforeDir="false" afterPath="$PROJECT_DIR$/bak/sell_front/src/common/js/date.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_front/src/common/js/store.js" beforeDir="false" afterPath="$PROJECT_DIR$/bak/sell_front/src/common/js/store.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_front/src/common/js/util.js" beforeDir="false" afterPath="$PROJECT_DIR$/bak/sell_front/src/common/js/util.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_front/src/common/stylus/base.styl" beforeDir="false" afterPath="$PROJECT_DIR$/bak/sell_front/src/common/stylus/base.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_front/src/common/stylus/icon.styl" beforeDir="false" afterPath="$PROJECT_DIR$/bak/sell_front/src/common/stylus/icon.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_front/src/common/stylus/index.styl" beforeDir="false" afterPath="$PROJECT_DIR$/bak/sell_front/src/common/stylus/index.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_front/src/common/stylus/mixin.styl" beforeDir="false" afterPath="$PROJECT_DIR$/bak/sell_front/src/common/stylus/mixin.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_front/src/components/cartcontrol/cartcontrol.vue" beforeDir="false" afterPath="$PROJECT_DIR$/bak/sell_front/src/components/cartcontrol/cartcontrol.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_front/src/components/food/food.vue" beforeDir="false" afterPath="$PROJECT_DIR$/bak/sell_front/src/components/food/food.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_front/src/components/goods/decrease_3@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/bak/sell_front/src/components/goods/decrease_3@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_front/src/components/goods/decrease_3@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/bak/sell_front/src/components/goods/decrease_3@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_front/src/components/goods/discount_3@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/bak/sell_front/src/components/goods/discount_3@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_front/src/components/goods/discount_3@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/bak/sell_front/src/components/goods/discount_3@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_front/src/components/goods/goods.vue" beforeDir="false" afterPath="$PROJECT_DIR$/bak/sell_front/src/components/goods/goods.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_front/src/components/goods/guarantee_3@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/bak/sell_front/src/components/goods/guarantee_3@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_front/src/components/goods/guarantee_3@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/bak/sell_front/src/components/goods/guarantee_3@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_front/src/components/goods/invoice_3@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/bak/sell_front/src/components/goods/invoice_3@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_front/src/components/goods/invoice_3@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/bak/sell_front/src/components/goods/invoice_3@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_front/src/components/goods/special_3@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/bak/sell_front/src/components/goods/special_3@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_front/src/components/goods/special_3@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/bak/sell_front/src/components/goods/special_3@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_front/src/components/header/brand@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/bak/sell_front/src/components/header/brand@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_front/src/components/header/brand@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/bak/sell_front/src/components/header/brand@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_front/src/components/header/bulletin@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/bak/sell_front/src/components/header/bulletin@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_front/src/components/header/bulletin@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/bak/sell_front/src/components/header/bulletin@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_front/src/components/header/decrease_1@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/bak/sell_front/src/components/header/decrease_1@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_front/src/components/header/decrease_1@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/bak/sell_front/src/components/header/decrease_1@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_front/src/components/header/decrease_2@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/bak/sell_front/src/components/header/decrease_2@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_front/src/components/header/decrease_2@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/bak/sell_front/src/components/header/decrease_2@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_front/src/components/header/discount_1@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/bak/sell_front/src/components/header/discount_1@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_front/src/components/header/discount_1@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/bak/sell_front/src/components/header/discount_1@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_front/src/components/header/discount_2@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/bak/sell_front/src/components/header/discount_2@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_front/src/components/header/discount_2@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/bak/sell_front/src/components/header/discount_2@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_front/src/components/header/guarantee_1@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/bak/sell_front/src/components/header/guarantee_1@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_front/src/components/header/guarantee_1@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/bak/sell_front/src/components/header/guarantee_1@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_front/src/components/header/guarantee_2@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/bak/sell_front/src/components/header/guarantee_2@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_front/src/components/header/guarantee_2@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/bak/sell_front/src/components/header/guarantee_2@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_front/src/components/header/header.vue" beforeDir="false" afterPath="$PROJECT_DIR$/bak/sell_front/src/components/header/header.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_front/src/components/header/invoice_1@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/bak/sell_front/src/components/header/invoice_1@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_front/src/components/header/invoice_1@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/bak/sell_front/src/components/header/invoice_1@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_front/src/components/header/invoice_2@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/bak/sell_front/src/components/header/invoice_2@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_front/src/components/header/invoice_2@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/bak/sell_front/src/components/header/invoice_2@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_front/src/components/header/special_1@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/bak/sell_front/src/components/header/special_1@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_front/src/components/header/special_1@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/bak/sell_front/src/components/header/special_1@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_front/src/components/header/special_2@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/bak/sell_front/src/components/header/special_2@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_front/src/components/header/special_2@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/bak/sell_front/src/components/header/special_2@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_front/src/components/order/detail.vue" beforeDir="false" afterPath="$PROJECT_DIR$/bak/sell_front/src/components/order/detail.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_front/src/components/order/list.vue" beforeDir="false" afterPath="$PROJECT_DIR$/bak/sell_front/src/components/order/list.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_front/src/components/payment/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/bak/sell_front/src/components/payment/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_front/src/components/ratings/ratings.vue" beforeDir="false" afterPath="$PROJECT_DIR$/bak/sell_front/src/components/ratings/ratings.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_front/src/components/ratingselect/ratingselect.vue" beforeDir="false" afterPath="$PROJECT_DIR$/bak/sell_front/src/components/ratingselect/ratingselect.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_front/src/components/seller/decrease_4@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/bak/sell_front/src/components/seller/decrease_4@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_front/src/components/seller/decrease_4@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/bak/sell_front/src/components/seller/decrease_4@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_front/src/components/seller/discount_4@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/bak/sell_front/src/components/seller/discount_4@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_front/src/components/seller/discount_4@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/bak/sell_front/src/components/seller/discount_4@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_front/src/components/seller/guarantee_4@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/bak/sell_front/src/components/seller/guarantee_4@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_front/src/components/seller/guarantee_4@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/bak/sell_front/src/components/seller/guarantee_4@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_front/src/components/seller/invoice_4@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/bak/sell_front/src/components/seller/invoice_4@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_front/src/components/seller/invoice_4@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/bak/sell_front/src/components/seller/invoice_4@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_front/src/components/seller/seller.vue" beforeDir="false" afterPath="$PROJECT_DIR$/bak/sell_front/src/components/seller/seller.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_front/src/components/seller/special_4@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/bak/sell_front/src/components/seller/special_4@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_front/src/components/seller/special_4@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/bak/sell_front/src/components/seller/special_4@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_front/src/components/shopcart/shopcart.vue" beforeDir="false" afterPath="$PROJECT_DIR$/bak/sell_front/src/components/shopcart/shopcart.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_front/src/components/split/split.vue" beforeDir="false" afterPath="$PROJECT_DIR$/bak/sell_front/src/components/split/split.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_front/src/components/star/star.vue" beforeDir="false" afterPath="$PROJECT_DIR$/bak/sell_front/src/components/star/star.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_front/src/components/star/star24_half@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/bak/sell_front/src/components/star/star24_half@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_front/src/components/star/star24_half@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/bak/sell_front/src/components/star/star24_half@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_front/src/components/star/star24_off@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/bak/sell_front/src/components/star/star24_off@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_front/src/components/star/star24_off@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/bak/sell_front/src/components/star/star24_off@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_front/src/components/star/star24_on@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/bak/sell_front/src/components/star/star24_on@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_front/src/components/star/star24_on@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/bak/sell_front/src/components/star/star24_on@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_front/src/components/star/star36_half@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/bak/sell_front/src/components/star/star36_half@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_front/src/components/star/star36_half@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/bak/sell_front/src/components/star/star36_half@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_front/src/components/star/star36_off@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/bak/sell_front/src/components/star/star36_off@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_front/src/components/star/star36_off@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/bak/sell_front/src/components/star/star36_off@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_front/src/components/star/star36_on@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/bak/sell_front/src/components/star/star36_on@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_front/src/components/star/star36_on@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/bak/sell_front/src/components/star/star36_on@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_front/src/components/star/star48_half@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/bak/sell_front/src/components/star/star48_half@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_front/src/components/star/star48_half@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/bak/sell_front/src/components/star/star48_half@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_front/src/components/star/star48_off@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/bak/sell_front/src/components/star/star48_off@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_front/src/components/star/star48_off@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/bak/sell_front/src/components/star/star48_off@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_front/src/components/star/star48_on@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/bak/sell_front/src/components/star/star48_on@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_front/src/components/star/star48_on@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/bak/sell_front/src/components/star/star48_on@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_front/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/bak/sell_front/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_front/static/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/bak/sell_front/static/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_front/static/css/reset.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_front/说明.txt" beforeDir="false" afterPath="$PROJECT_DIR$/bak/sell_front/说明.TXT" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_server/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/bak/sell_server/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_server/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/bak/sell_server/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sell_server/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_server/src/main/java/com/imooc/exception/SellException.java" beforeDir="false" afterPath="$PROJECT_DIR$/sell_server/src/main/java/com/imooc/exception/SellException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sell_server/src/main/java/com/imooc/handler/SellExceptionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/sell_server/src/main/java/com/imooc/handler/SellExceptionHandler.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/sell_server/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="915261649">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="2" />
+          <entry key="java" value="5" />
+          <entry key="md" value="1" />
+          <entry key="xml" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="2" />
+          <entry key="JAVA" value="5" />
+          <entry key="Markdown" value="1" />
+          <entry key="XML" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="254" />
+          <entry key="xml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="254" />
+          <entry key="XML" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sell_server/src/main/java/com/imooc/handler/SellExceptionHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="42" column="5" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1209#1210#0" expanded="true" />
+                <element signature="e#1243#1244#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sell_server/src/main/java/com/imooc/exception/ResponseBankException.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="50">
+              <caret line="2" column="61" selection-start-line="2" selection-start-column="61" selection-end-line="2" selection-end-column="61" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sell_server/src/main/java/com/imooc/exception/SellerAuthorizeException.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="6" column="64" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="64" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.8.RELEASE/spring-web-4.3.8.RELEASE.jar!/org/springframework/web/bind/annotation/ResponseStatus.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sell_server/src/main/java/com/imooc/exception/SellException.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/sell_server/pom.xml" />
+        <option value="$PROJECT_DIR$/sell_server/src/main/java/com/imooc/exception/SellException.java" />
+        <option value="$PROJECT_DIR$/sell_server/src/main/java/com/imooc/exception/ResponseBankException.java" />
+        <option value="$PROJECT_DIR$/sell_server/src/main/java/com/imooc/handler/SellExceptionHandler.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="645" />
+    <option name="y" value="45" />
+    <option name="width" value="1920" />
+    <option name="height" value="1038" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ljh-weixin-sell" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sell_server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ljh-weixin-sell" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sell_server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ljh-weixin-sell" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sell_server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ljh-weixin-sell" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sell_server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ljh-weixin-sell" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sell_server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="exception" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ljh-weixin-sell" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sell_server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="handler" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546436999507" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\website\ljh-weixin-sell\sell_server" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="SellApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sell_server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.imooc.SellApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bb58ea63-9c1a-43e7-b6b0-db28425677a3" name="Default Changelist" comment="" />
+      <created>1546433649868</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1546433649868</updated>
+      <workItem from="1546433651704" duration="1703000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1703000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="516" y="36" width="1536" height="830" extended-state="0" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info id="Image Layers" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Capture Tool" />
+      <window_info id="Web" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15853658" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Spring" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Java Enterprise" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Hybris Console" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Bean Validation" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/sell_server/doc/VM.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sell_server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="574">
+          <caret line="93" column="12" selection-start-line="93" selection-start-column="12" selection-end-line="93" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/1.5.3.RELEASE/spring-boot-1.5.3.RELEASE.jar!/org/springframework/boot/SpringApplication.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="55" column="13" selection-start-line="55" selection-start-column="13" selection-end-line="55" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sell_server/src/main/java/com/imooc/SellApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+          <folding>
+            <element signature="e#236#237#0" expanded="true" />
+            <element signature="e#293#294#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sell_server/src/main/java/com/imooc/exception/SellException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.8.RELEASE/spring-web-4.3.8.RELEASE.jar!/org/springframework/web/bind/annotation/ResponseStatus.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sell_server/src/main/java/com/imooc/exception/SellerAuthorizeException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="64" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sell_server/src/main/java/com/imooc/exception/ResponseBankException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="61" selection-start-line="2" selection-start-column="61" selection-end-line="2" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sell_server/src/main/java/com/imooc/handler/SellExceptionHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="42" column="5" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1209#1210#0" expanded="true" />
+            <element signature="e#1243#1244#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>sell_server</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
