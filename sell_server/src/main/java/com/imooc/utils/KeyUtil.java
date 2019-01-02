@@ -3,7 +3,8 @@ package com.imooc.utils;
 import java.util.Random;
 
 /**
- * Created by shallowan
+ * Created by 廖师兄
+ * 2017-06-11 19:12
  */
 public class KeyUtil {
 

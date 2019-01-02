@@ -3,7 +3,8 @@ package com.imooc.utils;
 import com.imooc.enums.CodeEnum;
 
 /**
- * Created by shallowan
+ * Created by 廖师兄
+ * 2017-07-16 18:36
  */
 public class EnumUtil {
 

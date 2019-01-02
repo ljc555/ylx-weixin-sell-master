@@ -5,7 +5,8 @@ import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.stereotype.Component;
 
 /**
- * Created by shallowan
+ * Created by 廖师兄
+ * 2017-07-30 11:43
  */
 @Data
 @ConfigurationProperties(prefix = "projectUrl")

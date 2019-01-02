@@ -8,7 +8,8 @@ import javax.persistence.Id;
 import java.math.BigDecimal;
 
 /**
- * Created by shallowan
+ * Created by 廖师兄
+ * 2017-06-11 17:20
  */
 @Entity
 @Data

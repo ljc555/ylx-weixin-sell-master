@@ -3,7 +3,8 @@ package com.imooc.exception;
 import com.imooc.enums.ResultEnum;
 
 /**
- * Created by shallowan
+ * Created by 廖师兄
+ * 2017-06-11 18:55
  */
 public class SellException extends RuntimeException{
 

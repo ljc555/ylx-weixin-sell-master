@@ -2,9 +2,9 @@ package com.imooc.constant;
 
 /**
  * redis常量
- * Created by shallowan
+ * Created by 廖师兄
+ * 2017-07-30 16:22
  */
-
 public interface RedisConstant {
 
     String TOKEN_PREFIX = "token_%s";

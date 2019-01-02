@@ -11,7 +11,8 @@ import javax.websocket.server.ServerEndpoint;
 import java.util.concurrent.CopyOnWriteArraySet;
 
 /**
- * Created by shallowan
+ * Created by 廖师兄
+ * 2017-07-30 23:19
  */
 @Component
 @ServerEndpoint("/webSocket")

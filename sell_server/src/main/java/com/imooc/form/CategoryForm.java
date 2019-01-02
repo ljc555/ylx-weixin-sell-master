@@ -3,7 +3,8 @@ package com.imooc.form;
 import lombok.Data;
 
 /**
- * Created by shallowan
+ * Created by 廖师兄
+ * 2017-07-23 21:43
  */
 @Data
 public class CategoryForm {
